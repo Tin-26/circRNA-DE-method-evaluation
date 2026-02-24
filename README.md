@@ -19,7 +19,7 @@ The goal of this repository is to evaluate how different normalization strategie
 - `Analysis_Scripts/` – data preprocessing, simulations, quality control, and execution of differential expression tools  
   - `Analysis_Scripts/Pre-processing/` – primary pipeline used to generate all circRNA and linear RNA count matrices analyzed in the manuscript
   - `Analysis_Scripts/DE_benchmark.R` - main script to run the DE tools on the simulated and real datasets
-- `supplementary/` – supplementary figures, tables, and additional analyses
+- `Supplementary/` – supplementary tables, and additional analyses
 
 ## External tools
 
