@@ -16,7 +16,7 @@ The goal of this repository is to evaluate how different normalization strategie
 
 ## Repository contents
 
-- `Analysis_scripts/` – data preprocessing, simulations, quality control, and execution of differential expression tools
+- `Analysis_Scripts/` – data preprocessing, simulations, quality control, and execution of differential expression tools
 - `supplementary/` – supplementary figures, tables, and additional analyses
 
 ---
