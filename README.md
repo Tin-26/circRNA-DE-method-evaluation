@@ -21,7 +21,9 @@ The goal of this repository is to evaluate how different normalization strategie
   - `Analysis_Scripts/DE-scripts/` - functions to run DE tools
 - `supplementary/` – supplementary figures, tables, and additional analyses
 
-
+For the binaries of the circRNA identifier tools, please refer to the developers GitHub pages:
+- CIRI3: https://github.com/gyjames/CIRI3
+- CircExplorer2/CLEAR: https://github.com/YangLab/CIRCexplorer2/tree/master & https://github.com/YangLab/CLEAR
 ---
 
 ## Analysis scope
