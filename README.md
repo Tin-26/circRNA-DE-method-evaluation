@@ -16,8 +16,11 @@ The goal of this repository is to evaluate how different normalization strategie
 
 ## Repository contents
 
-- `Analysis_Scripts/` – data preprocessing, simulations, quality control, and execution of differential expression tools
-- `Supplementary/` – supplementary figures, tables, and additional analyses
+- `Analysis_Scripts/` – data preprocessing, simulations, quality control, and execution of differential expression tools  
+  - `Analysis_Scripts/Pre-processing/` – primary pipeline used to generate all circRNA and linear RNA count matrices analyzed in the manuscript
+  - `Analysis_Scripts/DE-scripts/` - functions to run DE tools
+- `supplementary/` – supplementary figures, tables, and additional analyses
+
 
 ---
 
@@ -62,7 +65,13 @@ Assessing the impact of parental linear gene normalization in the performance of
 *Journal*. DOI
 
 ---
+## Contact
 
+For questions regarding this repository, please contact the corresponding author:
+
+- X Y
+- Email: 
+---
 ## License
 
 License information to be added.
