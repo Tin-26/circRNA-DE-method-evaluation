@@ -16,7 +16,7 @@ The goal of this repository is to evaluate how different normalization strategie
 
 ## Repository contents
 
-- `scripts/` – data preprocessing, simulations, quality control, and execution of differential expression tools
+- `Analysis_scripts/` – data preprocessing, simulations, quality control, and execution of differential expression tools
 - `supplementary/` – supplementary figures, tables, and additional analyses
 
 ---
@@ -65,4 +65,4 @@ Assessing the impact of parental linear gene normalization in the performance of
 
 ## License
 
-License information to be added. Which one to pick?
+License information to be added.
