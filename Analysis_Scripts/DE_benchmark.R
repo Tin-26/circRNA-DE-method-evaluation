@@ -5252,7 +5252,7 @@ run_ciriDE <- function(bsj_path, fsj_path, meta_path, norm_method, contrasts) {
   dev.off()
   
   circ_fit <- glmFit(circ_dge, design)
-  circ_lrt <- glmLRT(circ_fit, coef = 2)
+  circ_lrt <- glmLRT(circ_fit)
   
   results <- circ_lrt$table
   circ_order <- order(circ_lrt$table$PValue)
@@ -6392,7 +6392,7 @@ for (dataset_name in names(bsj_paths)) {
       cat("Running ciriDE-BSJonly", norm, min_cpm, "...\n")
       t0 <- proc.time()
       all_results[[dataset_name]][["ciriDE"]][["BSJonly"]][[norm]][[min_cpm]] <- tryCatch({
-        edger_bsj(bsj_path, meta_path, norm, min_cpm, contrast_map[[dataset_name]])
+        ciriDE_BSJ(bsj_path, meta_path, norm, min_cpm, contrast_map[[dataset_name]])
       }, error = function(e) {
         cat(sprintf("  ERROR in ciriDE-BSJonly for %s: %s\n", dataset_name, e$message)); NULL
       })
