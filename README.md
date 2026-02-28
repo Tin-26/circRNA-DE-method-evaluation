@@ -29,8 +29,7 @@ For the binaries of the circRNA identifier tools, please refer to the original d
 - **CLEAR**: [https://github.com/YangLab/CLEAR](https://github.com/YangLab/CLEAR)
 ---
 
-## Analysis scope
-
+## Scope of analysis
 The repository includes scripts for:
 
 - Pre-processing circRNA and linear RNA count data
