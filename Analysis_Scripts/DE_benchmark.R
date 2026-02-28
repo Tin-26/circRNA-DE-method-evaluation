@@ -5776,7 +5776,7 @@ bsj_10P_min1_data <- list(
 #BSJ paths
 bsj_paths <- list(
   BC = "/media/meteor/FatDawg/Benchmark_Paper/PRJNA553624_breast_cancer/circRNA_outs/CIRI3/BC_CIRI-Candidate.BSJ_Matrix",
-  EBC1= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2025-11-11/circRNA_outs/CIRI3/EBC1_CIRI-Candidate.BSJ_Matrix",
+  EBC1= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2026-02-19/circRNA_outs/CIRI3/EBC1_CIRI-Candidate.BSJ_Matrix",
   EBC2= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2025-11-25/circRNA_outs/CIRI3/EBC2_CIRI-Candidate.BSJ_Matrix",
   `HCC-PBMC`= "/media/meteor/ChunkyBoi/BC-alarm/CircRNA/PBMC/38samples/circRNA_outs/CIRI3/HCC-PBMC_CIRI-Candidate.BSJ_Matrix",
   `HCC-tissue`= "/media/meteor/FatDawg/Benchmark_Paper/PRJNA716508_hcc_study2/circRNA_outs/CIRI3/HCC-tissue_CIRI-Candidate.BSJ_Matrix"
@@ -5785,7 +5785,7 @@ bsj_paths <- list(
 #FSJ paths
 fsj_paths <- list(
   BC = "/media/meteor/FatDawg/Benchmark_Paper/PRJNA553624_breast_cancer/circRNA_outs/CIRI3/CIRI-Candidate.FSJ_Matrix",
-  EBC1= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2025-11-11/circRNA_outs/CIRI3/CIRI-Candidate.FSJ_Matrix",
+  EBC1= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2026-02-19/circRNA_outs/CIRI3/CIRI-Candidate.FSJ_Matrix",
   EBC2= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2025-11-25/circRNA_outs/CIRI3/CIRI-Candidate.FSJ_Matrix",
   `HCC-PBMC`= "/media/meteor/ChunkyBoi/BC-alarm/CircRNA/PBMC/38samples/circRNA_outs/CIRI3/CIRI-Candidate.FSJ_Matrix",
   `HCC-tissue`= "/media/meteor/FatDawg/Benchmark_Paper/PRJNA716508_hcc_study2/circRNA_outs/CIRI3/CIRI-Candidate.FSJ_Matrix"
@@ -5794,7 +5794,7 @@ fsj_paths <- list(
 #STAR paths
 star_fc_paths <- list(
   BC = "/media/meteor/FatDawg/Benchmark_Paper/PRJNA553624_breast_cancer/featureCounts_matrix.txt",
-  EBC1= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2025-11-11/2025-11-11-LINEAR-featureCounts_matrix.txt",
+  EBC1= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2026-02-19/2026-02-19-LINEAR-featureCounts_matrix.txt",
   EBC2= "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2025-11-25/2025-11-25-LINEAR-featureCounts_matrix.txt",
   `HCC-PBMC`= "/media/meteor/ChunkyBoi/BC-alarm/CircRNA/PBMC/38samples/featureCounts_matrix.txt",
   `HCC-tissue`= "/media/meteor/FatDawg/Benchmark_Paper/PRJNA716508_hcc_study2/featureCounts_matrix.txt"
@@ -5803,7 +5803,7 @@ star_fc_paths <- list(
 #metadata
 metadata_paths <- list(
   BC = "/media/meteor/FatDawg/Benchmark_Paper/metadata_online_datasets/PRJNA553624_metadata.csv",
-  EBC1 = "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2025-11-11/11-11-Metadata.csv",
+  EBC1 = "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2026-02-19/Metadata.csv",
   EBC2 = "/media/meteor/FatDawg/Benchmark_Paper/Own_dataset/2025-11-25/11-25-Metadata.csv",
   `HCC-PBMC`= "/media/meteor/ChunkyBoi/BC-alarm/CircRNA/PBMC/38samples/PBMC-meta.csv",
   `HCC-tissue`= "/media/meteor/FatDawg/Benchmark_Paper/metadata_online_datasets/PRJNA716508_metadata_cleaned.csv"
