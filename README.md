@@ -79,4 +79,8 @@ For questions regarding this repository, please contact the corresponding author
 ---
 ## License
 
-License information to be added.
+This repository is made available under the **Creative Commons CC0 1.0 Universal (CC0 1.0)** license.
+
+To the extent possible under law, the author(s) have waived all copyright and related or neighboring rights to the contents of this repository.
+
+See the `LICENSE` file for the full legal text.
