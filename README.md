@@ -78,8 +78,8 @@ Raw sequencing files are not stored in this repository because of file size cons
 | HCC-tissue | PRJNA716508 | real-data benchmarking and simulation source data | Public NCBI/SRA |
 | HCC-PBMC | PRJNA754685 | real-data benchmarking and simulation source data | Public NCBI/SRA |
 | SCLC | PRJNA1237743 | real-data benchmarking and simulation source data | Public NCBI/SRA |
-| EBC1 | internal cohort - PRJNA1429817  | real-data benchmarking and simulation source data | Not-yet-Public NCBI/SRA |
-| EBC2 | internal cohort - PRJNA1429817  | real-data benchmarking and simulation source data | Not-yet-Public NCBI/SRA |
+| EBC1 | internal cohort - PRJNA1429817  | real-data benchmarking and simulation source data | Public NCBI/SRA |
+| EBC2 | internal cohort - PRJNA1429817  | real-data benchmarking and simulation source data | Public NCBI/SRA |
 
 ## Files not included in this repository
 
